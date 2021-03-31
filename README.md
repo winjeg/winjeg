@@ -13,7 +13,7 @@ I'm a man with no great ambition, and I seek inner peace.
 ---
 
 **Here are my areas**
-|Items|Mastery|Notes|
+|Mastery| Items |Notes|
 |-|-|-|
 |⭐⭐⭐|Java|Most Frequently Used|
 |⭐⭐⭐|Golang|Frequently Used|
