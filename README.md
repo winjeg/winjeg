@@ -23,6 +23,7 @@ I'm a man with no great ambition, and I seek inner peace.
 |⭐|Html、CSS、TypeScript、JS|Used
 ---
 
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=winjeg&layout=compact)
 
 [homePage]: https://winjeg.github.io/
 [myEmail]: mailto://winjeg@qq.com
