@@ -7,7 +7,7 @@ You can contact me via my [email][myEmail] .
 **Welcome to my space**
 
 ```
-I'm a man with no great ambition, and I seek inner peace.
+Make life better, make world better.
 ```
 
 ---
