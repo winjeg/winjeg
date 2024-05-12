@@ -2,7 +2,6 @@
 
 You can contact me via my [email][myEmail] .
 
-|-|-|
 |![Github Stats](https://github-readme-stats.vercel.app/api?username=winjeg&show_icons=true) | ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=winjeg&layout=compact)|
 
 **Welcome to my space**
