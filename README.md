@@ -2,7 +2,8 @@
 
 You can contact me via my [email][myEmail] .
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=winjeg&show_icons=true)  
+|-|-|
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=winjeg&show_icons=true) | ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=winjeg&layout=compact)|
 
 **Welcome to my space**
 
@@ -22,8 +23,6 @@ Make life better, make world better.
 |⭐⭐|RPC Framework| Frequently Used|
 |⭐|Html、CSS、TypeScript、JS|Used
 ---
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=winjeg&layout=compact)
 
 [homePage]: https://winjeg.github.io/
 [myEmail]: mailto://winjeg@qq.com
